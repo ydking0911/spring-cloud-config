@@ -1,0 +1,6 @@
+token:
+  expiration_time: 864000000
+  secret: w4sX8fG7q2LpE9tV3yZ6uN0bH1jM4oPprod
+
+gateway:
+  ip: 192.168.45.253
